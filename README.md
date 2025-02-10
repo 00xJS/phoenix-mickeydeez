@@ -19,5 +19,5 @@ The project followed a multi-stage process:
 
 - Deployment and Sharing: The interactive map will be hosted and shared with the Arizona Pokémon GO community, providing a valuable tool for route optimization during sponsored event dates.
 
-## **Conlusion**
+## **Conclusion**
 This project's adaptable design allows for easy expansion to include future sponsored locations. With Niantic's announcements of partnerships with retailers like [Best Buy, GameStop, Target](https://pokemongolive.com/post/tcg-prismatic-evolutions?hl=en), and [Walmart](https://pokemongolive.com/post/walmart-us-partnership), the existing framework can be readily updated with new location data. 
